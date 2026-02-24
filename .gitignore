@@ -8,7 +8,7 @@
 
 # To ignore a specific file, provide its name 
 
-*.txt 
+secrets.txt 
 
  
 
