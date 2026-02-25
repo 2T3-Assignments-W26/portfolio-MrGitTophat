@@ -1,8 +1,24 @@
 # PowerShell
 
-![image](.\cheatsheets\PowerShell_5.0_icon.png)
+![image](..\cheatsheets\PowerShell_5.0_icon.png)
 
 About [PowerShell](https://docs.microsoft.com/en-us/powershell/ )
+
+## Essential Commands and Aliases
+Task | Cmdlet | Common Aliases
+| --- | --- | ---   
+Get help | **`Get-Help <Command-Name>`** | **`man`**
+List commands | **`Get-Command`** | 
+Get current location | **`Get-Location`** | **`pwd`**
+Change location | **`Set-Location <Path>`** | **`cd`**
+List directory contents | **`Get-ChildItem`** | **`ls`**, **`dir`**, **`gci`** 
+Get file content | **`Get-Content <File-Path>`** | **`gc`**, **`cat`** 
+Copy items | **`Copy-Item <Source> <Destination>`** | **`cp`**, **`cpi`**
+Move items | **`Move-Item <Source> <Destination>`** | **`mv`**, **`mi`** 
+Remove items | **`Remove-Item <Name>`** | **`rm`**
+Create new item | **`New-Item <Name>`** | **`mkdir`**, **`touch v`**
+Manage processes | **`Get-Process, Stop-Process`** | 
+Manage services | **`Get-Service, Start-Service`** | 
 
 **PowerShell** is a powerful command-line shell and scripting language developed by Microsoft. It is designed to help users automate tasks, manage systems, and perform administrative tasks efficiently. Built on the [.NET framework](https://learn.microsoft.com/en-us/dotnet/framework/get-started/overview ), **PowerShell** is both a ***command-line tool*** and ***a scripting environment***, making it a versatile tool for programmers and system administrators.
 
@@ -82,7 +98,7 @@ When writing and debugging PowerShell scripts, using a dedicated editor can grea
     - Multi-tab interface for working with multiple scripts.
 - **Best for**: Beginners and users working on older versions of PowerShell.
 
-![image](.\cheatsheets\ISE_panes.png)
+![image](..\cheatsheets\ISE_panes.png)
 
 #### Visual Studio Code (VS Code)
 
@@ -95,7 +111,7 @@ When writing and debugging PowerShell scripts, using a dedicated editor can grea
   - Cross-platform (*Windows, macOS, Linux*).
 - **Best for**: Modern PowerShell development, especially with PowerShell 7 and cross-platform scripting.
 
-![image](.\cheatsheets\vs_code.png)
+![image](..\cheatsheets\vs_code.png)
 
 Useful Resources for Learning PowerShell
 Official PowerShell Documentation
