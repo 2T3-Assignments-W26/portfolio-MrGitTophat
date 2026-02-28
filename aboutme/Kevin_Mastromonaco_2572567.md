@@ -1,0 +1,17 @@
+![image](KevinMastromonacoStudentID.jpg)
+# Kevin Mastromonaco
+Montreal, Quebec   2572567@johnabbottcollege.net   438-506-4079
+### Professional Summary
+Computer Science Techniques student at John Abbott College developing skills in programming, web programming, application development, databases, IT, technical support, security, networking, and operating systems.
+
+I am strongly interested and determined in building fundamental programming knowledge and skills, such as debugging and script writing. I keep an adaptable, perseverant mindset and maintain a dependable, hardworking attitude.
+### Work History
+**Printing Services Operator**, June 2025 to july 2025 5 weeks *Lester B. Pearson School Board*-Dorval, Quebec, Canada, On-site
+- Communicated with teachers by email to fulfil pre-specified printing requests.
+- Maintained printers for each specified request.
+- Troubleshooted printing requests by formating them correctly with the help of various softwares.
+- Packaged and organized printing requests using cardboard boxes.
+### Skills
+table
+### Education
+table
