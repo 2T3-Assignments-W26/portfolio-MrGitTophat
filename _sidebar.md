@@ -6,3 +6,5 @@
   - [PowerShell](cheatsheets/powershell.md)
 
 - About Me
+  - [Online resume](aboutme/Kevin_Mastromonaco_2572567.md)
+  - [My Projects](aboutme/myProjects.md)
